@@ -1,0 +1,10 @@
+<botcomponent schemaname="cre4e_agent2.topic.ResetConversation">
+  <componenttype>9</componenttype>
+  <iscustomizable>0</iscustomizable>
+  <name>Redefinir conversa</name>
+  <parentbotid>
+    <schemaname>cre4e_agent2</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

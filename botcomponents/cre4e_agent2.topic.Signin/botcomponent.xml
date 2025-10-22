@@ -1,0 +1,11 @@
+<botcomponent schemaname="cre4e_agent2.topic.Signin">
+  <componenttype>9</componenttype>
+  <description>Esse tópico do sistema é disparado quando o agente precisa conectar o usuário ou exige que o usuário se conecte</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Entrar </name>
+  <parentbotid>
+    <schemaname>cre4e_agent2</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

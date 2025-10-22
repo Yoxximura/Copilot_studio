@@ -1,0 +1,11 @@
+<botcomponent schemaname="cre4e_agent2.topic.Greeting">
+  <componenttype>9</componenttype>
+  <description>Esse tópico é disparado quando o usuário cumprimenta o agente.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Saudação</name>
+  <parentbotid>
+    <schemaname>cre4e_agent2</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>

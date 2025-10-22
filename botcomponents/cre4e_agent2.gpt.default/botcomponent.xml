@@ -1,0 +1,11 @@
+<botcomponent schemaname="cre4e_agent2.gpt.default">
+  <componenttype>15</componenttype>
+  <description>Este copiloto será responsável por responder todas as dúvidas de IA.</description>
+  <iscustomizable>0</iscustomizable>
+  <name>Agent 2</name>
+  <parentbotid>
+    <schemaname>cre4e_agent2</schemaname>
+  </parentbotid>
+  <statecode>0</statecode>
+  <statuscode>1</statuscode>
+</botcomponent>
